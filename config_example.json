@@ -1,0 +1,22 @@
+{
+    "client_id": "client_id_here",
+    "client_secret": "client_secret_here",
+    "user_agent": "pc:com.example.myredditapp:v1.2.3",
+    "client_secrets_file": "youtube_secrets.json file here",
+    "firefox_profile_path": "FireFox profile path here",
+    "geckodriver_path": "Absolute path to 'geckodriver' seen in the directory",
+    "temp_path": "Absolute path to 'temp' (create a folder named temp, copy it's absolute path and paste it here then delete the folder if you want)",
+    "background_video_path": "mc.mp4",
+    "video_title": "[post_title] #shorts #questions #redditvideos",
+    "video_description": "Description goes here.",
+    "video_tags": ["redditvideos", "questions", "shorts"],
+    "video_category_id": "22",
+    "privacy_status": "public",
+    "window_width": "460",
+    "window_height": "890",
+    "scopes": [
+        "https://www.googleapis.com/auth/youtube.upload"
+    ],
+    "number_of_posts_to_iterate": "12",
+    "rounded_corners_radius": "14"
+}

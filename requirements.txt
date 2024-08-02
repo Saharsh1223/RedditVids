@@ -1,0 +1,10 @@
+google_api_python_client
+google_auth_oauthlib
+moviepy
+mutagen
+Pillow
+praw
+protobuf
+pydub
+pyt2s
+selenium
